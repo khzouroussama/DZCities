@@ -1,0 +1,1322 @@
+[
+  {
+    "wilaya_id": 2,
+    "daira_id": 222,
+    "id": 29,
+    "code": "29",
+    "name_ar": "أبو الحسن",
+    "name": "Abou El Hassane",
+    "state_name": "Chlef",
+    "index": 39
+  },
+  {
+    "wilaya_id": 3,
+    "daira_id": 302,
+    "id": 68,
+    "code": "68",
+    "name_ar": "بن ناصر بن شهرة",
+    "name": "Benacer Benchohra",
+    "state_name": "Laghouat",
+    "index": 52
+  },
+  {
+    "wilaya_id": 3,
+    "daira_id": 307,
+    "id": 72,
+    "code": "72",
+    "name_ar": "الحويطة",
+    "name": "El Haouaita",
+    "state_name": "Laghouat",
+    "index": 59
+  },
+  {
+    "wilaya_id": 4,
+    "daira_id": 425,
+    "id": 91,
+    "code": "91",
+    "name_ar": "عين فكرون",
+    "name": "Ain Fekroun",
+    "state_name": "Oum El Bouaghi",
+    "index": 102
+  },
+  {
+    "wilaya_id": 5,
+    "daira_id": 506,
+    "id": 174,
+    "code": "174",
+    "name_ar": "تغرغار",
+    "name": "Tigharghar",
+    "state_name": "Batna",
+    "index": 115
+  },
+  {
+    "wilaya_id": 5,
+    "daira_id": 509,
+    "id": 153,
+    "code": "153",
+    "name_ar": "نقاوس",
+    "name": "N Gaous",
+    "state_name": "Batna",
+    "index": 123
+  },
+  {
+    "wilaya_id": 5,
+    "daira_id": 542,
+    "id": 149,
+    "code": "149",
+    "name_ar": "إمدوكل",
+    "name": "M Doukal",
+    "state_name": "Batna",
+    "index": 140
+  },
+  {
+    "wilaya_id": 5,
+    "daira_id": 543,
+    "id": 121,
+    "code": "121",
+    "name_ar": "عزيل عبد القادر",
+    "name": "Azil Abedelkader",
+    "state_name": "Batna",
+    "index": 141
+  },
+  {
+    "wilaya_id": 5,
+    "daira_id": 544,
+    "id": 168,
+    "code": "168",
+    "name_ar": "تكوت",
+    "name": "T Kout",
+    "state_name": "Batna",
+    "index": 146
+  },
+  {
+    "wilaya_id": 5,
+    "daira_id": 551,
+    "id": 160,
+    "code": "160",
+    "name_ar": "أولاد سلام",
+    "name": "Ouled Sellem",
+    "state_name": "Batna",
+    "index": 158
+  },
+  {
+    "wilaya_id": 5,
+    "daira_id": 553,
+    "id": 148,
+    "code": "148",
+    "name_ar": "لمسان",
+    "name": "Lemcene",
+    "state_name": "Batna",
+    "index": 162
+  },
+  {
+    "wilaya_id": 6,
+    "daira_id": 602,
+    "id": 214,
+    "code": "214",
+    "name_ar": "سمعون",
+    "name": "Smaoun",
+    "state_name": "Béjaïa",
+    "index": 170
+  },
+  {
+    "wilaya_id": 6,
+    "daira_id": 624,
+    "id": 220,
+    "code": "220",
+    "name_ar": "تاوريرت إغيل",
+    "name": "Taourit Ighil",
+    "state_name": "Béjaïa",
+    "index": 187
+  },
+  {
+    "wilaya_id": 6,
+    "daira_id": 627,
+    "id": 190,
+    "code": "190",
+    "name_ar": "بني مليكش",
+    "name": "Beni-Mallikeche",
+    "state_name": "Béjaïa",
+    "index": 196
+  },
+  {
+    "wilaya_id": 6,
+    "daira_id": 640,
+    "id": 201,
+    "code": "201",
+    "name_ar": "فناية الماثن",
+    "name": "Fenaia Il Maten",
+    "state_name": "Béjaïa",
+    "index": 212
+  },
+  {
+    "wilaya_id": 6,
+    "daira_id": 644,
+    "id": 198,
+    "code": "198",
+    "name_ar": "ذراع القايد",
+    "name": "Dra El Caid",
+    "state_name": "Béjaïa",
+    "index": 214
+  },
+  {
+    "wilaya_id": 6,
+    "daira_id": 650,
+    "id": 191,
+    "code": "191",
+    "name_ar": "بني معوش",
+    "name": "Benimaouche",
+    "state_name": "Béjaïa",
+    "index": 216
+  },
+  {
+    "wilaya_id": 7,
+    "daira_id": 701,
+    "id": 243,
+    "code": "243",
+    "name_ar": "الحاجب",
+    "name": "El Hadjab",
+    "state_name": "Biskra",
+    "index": 218
+  },
+  {
+    "wilaya_id": 7,
+    "daira_id": 721,
+    "id": 235,
+    "code": "235",
+    "name_ar": "بوشقرون",
+    "name": "Bouchakroun",
+    "state_name": "Biskra",
+    "index": 234
+  },
+  {
+    "wilaya_id": 8,
+    "daira_id": 817,
+    "id": 276,
+    "code": "276",
+    "name_ar": "مشرع هواري بومدين",
+    "name": "Machraa-Houari-Boumediene",
+    "state_name": "Béchar",
+    "index": 253
+  },
+  {
+    "wilaya_id": 9,
+    "daira_id": 922,
+    "id": 299,
+    "code": "299",
+    "name_ar": "حمام ملوان",
+    "name": "Hammam Elouane",
+    "state_name": "Blida",
+    "index": 278
+  },
+  {
+    "wilaya_id": 10,
+    "daira_id": 1013,
+    "id": 353,
+    "code": "353",
+    "name_ar": "زبربر",
+    "name": "Z'barbar (El Isseri )",
+    "state_name": "Bouira",
+    "index": 295
+  },
+  {
+    "wilaya_id": 10,
+    "daira_id": 1018,
+    "id": 351,
+    "code": "351",
+    "name_ar": "تاقديت",
+    "name": "Taguedite",
+    "state_name": "Bouira",
+    "index": 301
+  },
+  {
+    "wilaya_id": 10,
+    "daira_id": 1037,
+    "id": 339,
+    "code": "339",
+    "name_ar": "أمشدالة",
+    "name": "M Chedallah",
+    "state_name": "Bouira",
+    "index": 316
+  },
+  {
+    "wilaya_id": 11,
+    "daira_id": 1101,
+    "id": 355,
+    "code": "355",
+    "name_ar": "عين امقل",
+    "name": "Ain Amguel",
+    "state_name": "Tamanrasset",
+    "index": 325
+  },
+  {
+    "wilaya_id": 11,
+    "daira_id": 1102,
+    "id": 354,
+    "code": "354",
+    "name_ar": "ابلسة",
+    "name": "Abelsa",
+    "state_name": "Tamanrasset",
+    "index": 327
+  },
+  {
+    "wilaya_id": 12,
+    "daira_id": 1203,
+    "id": 391,
+    "code": "391",
+    "name_ar": "ثليجان",
+    "name": "Telidjen",
+    "state_name": "Tébessa",
+    "index": 334
+  },
+  {
+    "wilaya_id": 12,
+    "daira_id": 1211,
+    "id": 371,
+    "code": "371",
+    "name_ar": "بولحاف الدير",
+    "name": "Boulhaf Dyr",
+    "state_name": "Tébessa",
+    "index": 343
+  },
+  {
+    "wilaya_id": 12,
+    "daira_id": 1220,
+    "id": 374,
+    "code": "374",
+    "name_ar": "الماء الابيض",
+    "name": "El Malabiod",
+    "state_name": "Tébessa",
+    "index": 354
+  },
+  {
+    "wilaya_id": 12,
+    "daira_id": 1221,
+    "id": 388,
+    "code": "388",
+    "name_ar": "صفصاف الوسرى",
+    "name": "Saf Saf El Ouesra",
+    "state_name": "Tébessa",
+    "index": 357
+  },
+  {
+    "wilaya_id": 13,
+    "daira_id": 1303,
+    "id": 397,
+    "code": "397",
+    "name_ar": "عين تالوت",
+    "name": "Ain Tellout",
+    "state_name": "Tlemcen",
+    "index": 360
+  },
+  {
+    "wilaya_id": 13,
+    "daira_id": 1304,
+    "id": 433,
+    "code": "433",
+    "name_ar": "سبعة شيوخ",
+    "name": "Sebbaa Chioukh",
+    "state_name": "Tlemcen",
+    "index": 365
+  },
+  {
+    "wilaya_id": 13,
+    "daira_id": 1307,
+    "id": 412,
+    "code": "412",
+    "name_ar": "دار يغمراسن",
+    "name": "Dar Yaghmoracen",
+    "state_name": "Tlemcen",
+    "index": 368
+  },
+  {
+    "wilaya_id": 13,
+    "daira_id": 1307,
+    "id": 442,
+    "code": "442",
+    "name_ar": "تيانت",
+    "name": "Tianet",
+    "state_name": "Tlemcen",
+    "index": 371
+  },
+  {
+    "wilaya_id": 13,
+    "daira_id": 1317,
+    "id": 415,
+    "code": "415",
+    "name_ar": "العزايل",
+    "name": "Azail",
+    "state_name": "Tlemcen",
+    "index": 377
+  },
+  {
+    "wilaya_id": 13,
+    "daira_id": 1318,
+    "id": 440,
+    "code": "440",
+    "name_ar": "سوق الثلاثاء",
+    "name": "Souk Tleta",
+    "state_name": "Tlemcen",
+    "index": 380
+  },
+  {
+    "wilaya_id": 13,
+    "daira_id": 1344,
+    "id": 422,
+    "code": "422",
+    "name_ar": "هنين",
+    "name": "Honnaine",
+    "state_name": "Tlemcen",
+    "index": 403
+  },
+  {
+    "wilaya_id": 14,
+    "daira_id": 1429,
+    "id": 486,
+    "code": "486",
+    "name_ar": "زمالة  الأمير عبد القادر",
+    "name": "Zmalet El Emir Abdelkade",
+    "state_name": "Tiaret",
+    "index": 443
+  },
+  {
+    "wilaya_id": 14,
+    "daira_id": 1434,
+    "id": 481,
+    "code": "481",
+    "name_ar": "تاقدمت",
+    "name": "Tagdempt",
+    "state_name": "Tiaret",
+    "index": 449
+  },
+  {
+    "wilaya_id": 15,
+    "daira_id": 1518,
+    "id": 551,
+    "code": "551",
+    "name_ar": "إعــكورن",
+    "name": "Yakourene",
+    "state_name": "Tizi Ouzou",
+    "index": 472
+  },
+  {
+    "wilaya_id": 15,
+    "daira_id": 1536,
+    "id": 538,
+    "code": "538",
+    "name_ar": "واضية",
+    "name": "Ouadhias",
+    "state_name": "Tizi Ouzou",
+    "index": 494
+  },
+  {
+    "wilaya_id": 15,
+    "daira_id": 1550,
+    "id": 541,
+    "code": "541",
+    "name_ar": "صوامـــع",
+    "name": "Souama",
+    "state_name": "Tizi Ouzou",
+    "index": 516
+  },
+  {
+    "wilaya_id": 15,
+    "daira_id": 1552,
+    "id": 521,
+    "code": "521",
+    "name_ar": "إبودرارن",
+    "name": "Iboudrarene",
+    "state_name": "Tizi Ouzou",
+    "index": 518
+  },
+  {
+    "wilaya_id": 16,
+    "daira_id": 1609,
+    "id": 604,
+    "code": "604",
+    "name_ar": "السحاولة",
+    "name": "Sehaoula",
+    "state_name": "Alger",
+    "index": 533
+  },
+  {
+    "wilaya_id": 16,
+    "daira_id": 1617,
+    "id": 594,
+    "code": "594",
+    "name_ar": "محمد بلوزداد",
+    "name": "Mohamed Belouzdad",
+    "state_name": "Alger",
+    "index": 548
+  },
+  {
+    "wilaya_id": 16,
+    "daira_id": 1636,
+    "id": 566,
+    "code": "566",
+    "name_ar": "بئر توتة",
+    "name": "Bir Touta",
+    "state_name": "Alger",
+    "index": 556
+  },
+  {
+    "wilaya_id": 16,
+    "daira_id": 1649,
+    "id": 577,
+    "code": "577",
+    "name_ar": "الدويرة",
+    "name": "Douira",
+    "state_name": "Alger",
+    "index": 568
+  },
+  {
+    "wilaya_id": 17,
+    "daira_id": 1719,
+    "id": 643,
+    "code": "643",
+    "name_ar": "سيدي لعجال",
+    "name": "Sidi Laadjel",
+    "state_name": "Djelfa",
+    "index": 597
+  },
+  {
+    "wilaya_id": 17,
+    "daira_id": 1720,
+    "id": 613,
+    "code": "613",
+    "name_ar": "عين فقه",
+    "name": "Ain Fekka",
+    "state_name": "Djelfa",
+    "index": 598
+  },
+  {
+    "wilaya_id": 17,
+    "daira_id": 1726,
+    "id": 618,
+    "code": "618",
+    "name_ar": "بن يعقوب",
+    "name": "Benyagoub",
+    "state_name": "Djelfa",
+    "index": 604
+  },
+  {
+    "wilaya_id": 17,
+    "daira_id": 1730,
+    "id": 644,
+    "code": "644",
+    "name_ar": "تعظميت",
+    "name": "Taadmit",
+    "state_name": "Djelfa",
+    "index": 609
+  },
+  {
+    "wilaya_id": 18,
+    "daira_id": 1804,
+    "id": 660,
+    "code": "660",
+    "name_ar": "أراقن سويسي",
+    "name": "Erraguene Souissi",
+    "state_name": "Jijel",
+    "index": 616
+  },
+  {
+    "wilaya_id": 18,
+    "daira_id": 1809,
+    "id": 667,
+    "code": "667",
+    "name_ar": "أولاد يحيى خدروش",
+    "name": "Ouled Yahia Khadrouch",
+    "state_name": "Jijel",
+    "index": 628
+  },
+  {
+    "wilaya_id": 18,
+    "daira_id": 1810,
+    "id": 671,
+    "code": "671",
+    "name_ar": "سيدي معروف",
+    "name": "Sidi Marouf",
+    "state_name": "Jijel",
+    "index": 630
+  },
+  {
+    "wilaya_id": 18,
+    "daira_id": 1812,
+    "id": 664,
+    "code": "664",
+    "name_ar": "خيري واد عجول",
+    "name": "Khiri Oued Adjoul",
+    "state_name": "Jijel",
+    "index": 636
+  },
+  {
+    "wilaya_id": 18,
+    "daira_id": 1817,
+    "id": 648,
+    "code": "648",
+    "name_ar": "بودريعة بني  ياجيس",
+    "name": "Boudria Beniyadjis",
+    "state_name": "Jijel",
+    "index": 637
+  },
+  {
+    "wilaya_id": 19,
+    "daira_id": 1928,
+    "id": 717,
+    "code": "717",
+    "name_ar": "قصر الابطال",
+    "name": "Kasr El Abtal",
+    "state_name": "Sétif",
+    "index": 674
+  },
+  {
+    "wilaya_id": 19,
+    "daira_id": 1932,
+    "id": 713,
+    "code": "713",
+    "name_ar": "حمام السخنة",
+    "name": "Hamam Soukhna",
+    "state_name": "Sétif",
+    "index": 680
+  },
+  {
+    "wilaya_id": 19,
+    "daira_id": 1955,
+    "id": 719,
+    "code": "719",
+    "name_ar": "ماوكلان",
+    "name": "Maouaklane",
+    "state_name": "Sétif",
+    "index": 699
+  },
+  {
+    "wilaya_id": 21,
+    "daira_id": 2101,
+    "id": 773,
+    "code": "773",
+    "name_ar": "حمادي كرومة",
+    "name": "Hammadi Krouma",
+    "state_name": "Skikda",
+    "index": 718
+  },
+  {
+    "wilaya_id": 21,
+    "daira_id": 2103,
+    "id": 762,
+    "code": "762",
+    "name_ar": "بوشطاطة",
+    "name": "Bouchetata",
+    "state_name": "Skikda",
+    "index": 721
+  },
+  {
+    "wilaya_id": 21,
+    "daira_id": 2113,
+    "id": 776,
+    "code": "776",
+    "name_ar": "خناق مايو",
+    "name": "Khenag Maoune",
+    "state_name": "Skikda",
+    "index": 734
+  },
+  {
+    "wilaya_id": 21,
+    "daira_id": 2116,
+    "id": 766,
+    "code": "766",
+    "name_ar": "الحروش",
+    "name": "El Arrouch",
+    "state_name": "Skikda",
+    "index": 739
+  },
+  {
+    "wilaya_id": 21,
+    "daira_id": 2116,
+    "id": 770,
+    "code": "770",
+    "name_ar": "مجاز الدشيش",
+    "name": "Emjez Edchich",
+    "state_name": "Skikda",
+    "index": 740
+  },
+  {
+    "wilaya_id": 21,
+    "daira_id": 2116,
+    "id": 780,
+    "code": "780",
+    "name_ar": "أولاد حبابة",
+    "name": "Ouled Habbaba",
+    "state_name": "Skikda",
+    "index": 741
+  },
+  {
+    "wilaya_id": 21,
+    "daira_id": 2116,
+    "id": 787,
+    "code": "787",
+    "name_ar": "زردازة",
+    "name": "Zerdezas",
+    "state_name": "Skikda",
+    "index": 743
+  },
+  {
+    "wilaya_id": 21,
+    "daira_id": 2126,
+    "id": 775,
+    "code": "775",
+    "name_ar": "الكركرة",
+    "name": "Kerkara",
+    "state_name": "Skikda",
+    "index": 750
+  },
+  {
+    "wilaya_id": 21,
+    "daira_id": 2127,
+    "id": 778,
+    "code": "778",
+    "name_ar": "الولجة بولبلوط",
+    "name": "Ouldja Boulbalout",
+    "state_name": "Skikda",
+    "index": 753
+  },
+  {
+    "wilaya_id": 22,
+    "daira_id": 2222,
+    "id": 834,
+    "code": "834",
+    "name_ar": "تفسور",
+    "name": "Tefessour",
+    "state_name": "Sidi Bel Abbès",
+    "index": 788
+  },
+  {
+    "wilaya_id": 22,
+    "daira_id": 2245,
+    "id": 795,
+    "code": "795",
+    "name_ar": "بضرابين المقراني",
+    "name": "Bedrabine El Mokrani",
+    "state_name": "Sidi Bel Abbès",
+    "index": 800
+  },
+  {
+    "wilaya_id": 22,
+    "daira_id": 2246,
+    "id": 801,
+    "code": "801",
+    "name_ar": "بوخنفيس",
+    "name": "Boukhanefis",
+    "state_name": "Sidi Bel Abbès",
+    "index": 804
+  },
+  {
+    "wilaya_id": 24,
+    "daira_id": 2404,
+    "id": 861,
+    "code": "861",
+    "name_ar": "برج صباط",
+    "name": "Bordj Sabath",
+    "state_name": "Guelma",
+    "index": 822
+  },
+  {
+    "wilaya_id": 24,
+    "daira_id": 2415,
+    "id": 876,
+    "code": "876",
+    "name_ar": "لخزارة",
+    "name": "Khezaras",
+    "state_name": "Guelma",
+    "index": 829
+  },
+  {
+    "wilaya_id": 24,
+    "daira_id": 2425,
+    "id": 881,
+    "code": "881",
+    "name_ar": "وادي فراغة",
+    "name": "Oued Ferragha",
+    "state_name": "Guelma",
+    "index": 845
+  },
+  {
+    "wilaya_id": 24,
+    "daira_id": 2427,
+    "id": 879,
+    "code": "879",
+    "name_ar": "هواري بومدين",
+    "name": "Houari Boumedienne",
+    "state_name": "Guelma",
+    "index": 850
+  },
+  {
+    "wilaya_id": 26,
+    "daira_id": 2602,
+    "id": 904,
+    "code": "904",
+    "name_ar": "بن شكاو",
+    "name": "Ben Chicao",
+    "state_name": "Médéa",
+    "index": 868
+  },
+  {
+    "wilaya_id": 26,
+    "daira_id": 2604,
+    "id": 942,
+    "code": "942",
+    "name_ar": "أولاد امعرف",
+    "name": "Ouled Emaaraf",
+    "state_name": "Médéa",
+    "index": 875
+  },
+  {
+    "wilaya_id": 26,
+    "daira_id": 2604,
+    "id": 951,
+    "code": "951",
+    "name_ar": "سيدي دامد",
+    "name": "Sidi Demed",
+    "state_name": "Médéa",
+    "index": 876
+  },
+  {
+    "wilaya_id": 26,
+    "daira_id": 2609,
+    "id": 907,
+    "code": "907",
+    "name_ar": "بئر بن عابد",
+    "name": "Bir Ben Laabed",
+    "state_name": "Médéa",
+    "index": 880
+  },
+  {
+    "wilaya_id": 26,
+    "daira_id": 2618,
+    "id": 915,
+    "code": "915",
+    "name_ar": "شلالة العذاورة",
+    "name": "Chelalet El Adhaoura",
+    "state_name": "Médéa",
+    "index": 884
+  },
+  {
+    "wilaya_id": 26,
+    "daira_id": 2632,
+    "id": 944,
+    "code": "944",
+    "name_ar": "أم الجليل",
+    "name": "Oum El Djellil",
+    "state_name": "Médéa",
+    "index": 892
+  },
+  {
+    "wilaya_id": 26,
+    "daira_id": 2635,
+    "id": 934,
+    "code": "934",
+    "name_ar": "مفاتحة",
+    "name": "M'fatha",
+    "state_name": "Médéa",
+    "index": 898
+  },
+  {
+    "wilaya_id": 26,
+    "daira_id": 2638,
+    "id": 912,
+    "code": "912",
+    "name_ar": "بوغزول",
+    "name": "Boughzoul",
+    "state_name": "Médéa",
+    "index": 904
+  },
+  {
+    "wilaya_id": 26,
+    "daira_id": 2638,
+    "id": 914,
+    "code": "914",
+    "name_ar": "الشهبونية",
+    "name": "Chabounia",
+    "state_name": "Médéa",
+    "index": 905
+  },
+  {
+    "wilaya_id": 26,
+    "daira_id": 2646,
+    "id": 953,
+    "code": "953",
+    "name_ar": "سيدي الربيع",
+    "name": "Sidi Rabie",
+    "state_name": "Médéa",
+    "index": 914
+  },
+  {
+    "wilaya_id": 26,
+    "daira_id": 2647,
+    "id": 941,
+    "code": "941",
+    "name_ar": "أولاد دايد",
+    "name": "Ouled Deid",
+    "state_name": "Médéa",
+    "index": 916
+  },
+  {
+    "wilaya_id": 26,
+    "daira_id": 2648,
+    "id": 961,
+    "code": "961",
+    "name_ar": "ثلاث دوائر",
+    "name": "Tletat Ed Douair",
+    "state_name": "Médéa",
+    "index": 920
+  },
+  {
+    "wilaya_id": 26,
+    "daira_id": 2652,
+    "id": 923,
+    "code": "923",
+    "name_ar": "الحوضان",
+    "name": "El Haoudane",
+    "state_name": "Médéa",
+    "index": 923
+  },
+  {
+    "wilaya_id": 27,
+    "daira_id": 2707,
+    "id": 987,
+    "code": "987",
+    "name_ar": "سيدي بلعطار",
+    "name": "Sidi Belaattar",
+    "state_name": "Mostaganem",
+    "index": 938
+  },
+  {
+    "wilaya_id": 27,
+    "daira_id": 2712,
+    "id": 983,
+    "code": "983",
+    "name_ar": "أولاد مع الله",
+    "name": "Ouled-Maalah",
+    "state_name": "Mostaganem",
+    "index": 943
+  },
+  {
+    "wilaya_id": 28,
+    "daira_id": 2809,
+    "id": 1014,
+    "code": "1014",
+    "name_ar": "خطوطي سد الجير",
+    "name": "Khettouti Sed-El-Jir",
+    "state_name": "M'Sila",
+    "index": 975
+  },
+  {
+    "wilaya_id": 28,
+    "daira_id": 2816,
+    "id": 1007,
+    "code": "1007",
+    "name_ar": "بوطي السايح",
+    "name": "Bouti Sayeh",
+    "state_name": "M'Sila",
+    "index": 984
+  },
+  {
+    "wilaya_id": 28,
+    "daira_id": 2820,
+    "id": 1032,
+    "code": "1032",
+    "name_ar": "ولتام",
+    "name": "Oulteme",
+    "state_name": "M'Sila",
+    "index": 990
+  },
+  {
+    "wilaya_id": 28,
+    "daira_id": 2841,
+    "id": 999,
+    "code": "999",
+    "name_ar": "عين الريش",
+    "name": "Ain Rich",
+    "state_name": "M'Sila",
+    "index": 1001
+  },
+  {
+    "wilaya_id": 29,
+    "daira_id": 2902,
+    "id": 1055,
+    "code": "1055",
+    "name_ar": "القطنة",
+    "name": "El Gueitena",
+    "state_name": "Mascara",
+    "index": 1010
+  },
+  {
+    "wilaya_id": 29,
+    "daira_id": 2907,
+    "id": 1073,
+    "code": "1073",
+    "name_ar": "نسمط",
+    "name": "Nesmot",
+    "state_name": "Mascara",
+    "index": 1019
+  },
+  {
+    "wilaya_id": 29,
+    "daira_id": 2907,
+    "id": 1088,
+    "code": "1088",
+    "name_ar": "زلامطة",
+    "name": "Zelamta",
+    "state_name": "Mascara",
+    "index": 1020
+  },
+  {
+    "wilaya_id": 29,
+    "daira_id": 2912,
+    "id": 1067,
+    "code": "1067",
+    "name_ar": "ماقضة",
+    "name": "Makhda",
+    "state_name": "Mascara",
+    "index": 1025
+  },
+  {
+    "wilaya_id": 29,
+    "daira_id": 2918,
+    "id": 1045,
+    "code": "1045",
+    "name_ar": "عين أفرص",
+    "name": "Ain Frass",
+    "state_name": "Mascara",
+    "index": 1033
+  },
+  {
+    "wilaya_id": 29,
+    "daira_id": 2931,
+    "id": 1081,
+    "code": "1081",
+    "name_ar": "سيدي عبد المومن",
+    "name": "Sidi Abdelmoumene",
+    "state_name": "Mascara",
+    "index": 1054
+  },
+  {
+    "wilaya_id": 31,
+    "daira_id": 3107,
+    "id": 1110,
+    "code": "1110",
+    "name_ar": "عين البية",
+    "name": "Ain Biya",
+    "state_name": "Oran",
+    "index": 1074
+  },
+  {
+    "wilaya_id": 31,
+    "daira_id": 3124,
+    "id": 1130,
+    "code": "1130",
+    "name_ar": "مسرغين",
+    "name": "Messerghin",
+    "state_name": "Oran",
+    "index": 1087
+  },
+  {
+    "wilaya_id": 32,
+    "daira_id": 3202,
+    "id": 1155,
+    "code": "1155",
+    "name_ar": "سيدي طيفور",
+    "name": "Sidi Tiffour",
+    "state_name": "El Bayadh",
+    "index": 1091
+  },
+  {
+    "wilaya_id": 32,
+    "daira_id": 3206,
+    "id": 1147,
+    "code": "1147",
+    "name_ar": "الخيثر",
+    "name": "El Kheither",
+    "state_name": "El Bayadh",
+    "index": 1098
+  },
+  {
+    "wilaya_id": 34,
+    "daira_id": 3409,
+    "id": 1176,
+    "code": "1176",
+    "name_ar": "العناصر",
+    "name": "El Annasseur",
+    "state_name": "Bordj Bou Arreridj",
+    "index": 1127
+  },
+  {
+    "wilaya_id": 34,
+    "daira_id": 3409,
+    "id": 1180,
+    "code": "1180",
+    "name_ar": "غيلاسة",
+    "name": "Ghailasa",
+    "state_name": "Bordj Bou Arreridj",
+    "index": 1128
+  },
+  {
+    "wilaya_id": 34,
+    "daira_id": 3411,
+    "id": 1177,
+    "code": "1177",
+    "name_ar": "الحمادية",
+    "name": "Elhammadia",
+    "state_name": "Bordj Bou Arreridj",
+    "index": 1131
+  },
+  {
+    "wilaya_id": 34,
+    "daira_id": 3415,
+    "id": 1193,
+    "code": "1193",
+    "name_ar": "تفرق",
+    "name": "Tefreg",
+    "state_name": "Bordj Bou Arreridj",
+    "index": 1141
+  },
+  {
+    "wilaya_id": 35,
+    "daira_id": 3502,
+    "id": 1212,
+    "code": "1212",
+    "name_ar": "الخروبة",
+    "name": "El Kharrouba",
+    "state_name": "Boumerdès",
+    "index": 1151
+  },
+  {
+    "wilaya_id": 36,
+    "daira_id": 3603,
+    "id": 1233,
+    "code": "1233",
+    "name_ar": "بن مهيدي",
+    "name": "Ben M Hidi",
+    "state_name": "El Tarf",
+    "index": 1185
+  },
+  {
+    "wilaya_id": 38,
+    "daira_id": 3806,
+    "id": 1274,
+    "code": "1274",
+    "name_ar": "تملاحت",
+    "name": "Tamellahet",
+    "state_name": "Tissemsilt",
+    "index": 1217
+  },
+  {
+    "wilaya_id": 39,
+    "daira_id": 3914,
+    "id": 1282,
+    "code": "1282",
+    "name_ar": "دوار الماء",
+    "name": "Douar El Maa",
+    "state_name": "El Oued",
+    "index": 1241
+  },
+  {
+    "wilaya_id": 40,
+    "daira_id": 4003,
+    "id": 1327,
+    "code": "1327",
+    "name_ar": "تاوزيانت",
+    "name": "Taouzianat",
+    "state_name": "Khenchela",
+    "index": 1250
+  },
+  {
+    "wilaya_id": 41,
+    "daira_id": 4104,
+    "id": 1334,
+    "code": "1334",
+    "name_ar": "الحنانشة",
+    "name": "Hanencha",
+    "state_name": "Souk Ahras",
+    "index": 1272
+  },
+  {
+    "wilaya_id": 41,
+    "daira_id": 4104,
+    "id": 1337,
+    "code": "1337",
+    "name_ar": "المشروحة",
+    "name": "Machroha",
+    "state_name": "Souk Ahras",
+    "index": 1273
+  },
+  {
+    "wilaya_id": 43,
+    "daira_id": 4303,
+    "id": 1400,
+    "code": "1400",
+    "name_ar": "وادي العثمانية",
+    "name": "Oued Athmenia",
+    "state_name": "Mila",
+    "index": 1329
+  },
+  {
+    "wilaya_id": 43,
+    "daira_id": 4323,
+    "id": 1411,
+    "code": "1411",
+    "name_ar": "تسالة لمطاعي",
+    "name": "Tassala Lematai",
+    "state_name": "Mila",
+    "index": 1351
+  },
+  {
+    "wilaya_id": 45,
+    "daira_id": 4506,
+    "id": 1454,
+    "code": "1454",
+    "name_ar": "جنين بورزق",
+    "name": "Djenienne Bourezg",
+    "state_name": "Naâma",
+    "index": 1397
+  },
+  {
+    "wilaya_id": 45,
+    "daira_id": 4510,
+    "id": 1457,
+    "code": "1457",
+    "name_ar": "مكمن بن عمار",
+    "name": "Makmen Ben Amar",
+    "state_name": "Naâma",
+    "index": 1401
+  },
+  {
+    "wilaya_id": 46,
+    "daira_id": 4614,
+    "id": 1474,
+    "code": "1474",
+    "name_ar": "المالح",
+    "name": "El Maleh",
+    "state_name": "Aïn Témouchent",
+    "index": 1413
+  },
+  {
+    "wilaya_id": 48,
+    "daira_id": 4807,
+    "id": 1514,
+    "code": "1514",
+    "name_ar": "الحمادنة",
+    "name": "El H'madna",
+    "state_name": "Relizane",
+    "index": 1446
+  },
+  {
+    "wilaya_id": 48,
+    "daira_id": 4808,
+    "id": 1536,
+    "code": "1536",
+    "name_ar": "سيدي أمحمد بن علي",
+    "name": "Sidi M'hamed Benali",
+    "state_name": "Relizane",
+    "index": 1450
+  },
+  {
+    "wilaya_id": 48,
+    "daira_id": 4812,
+    "id": 1511,
+    "code": "1511",
+    "name_ar": "دار بن عبد الله",
+    "name": "Dar Ben Abdelah",
+    "state_name": "Relizane",
+    "index": 1456
+  },
+  {
+    "wilaya_id": 48,
+    "daira_id": 4814,
+    "id": 1512,
+    "code": "1512",
+    "name_ar": "جديوية",
+    "name": "Djidiouia",
+    "state_name": "Relizane",
+    "index": 1458
+  },
+  {
+    "wilaya_id": 48,
+    "daira_id": 4817,
+    "id": 1507,
+    "code": "1507",
+    "name_ar": "بلعسل بوزقزة",
+    "name": "Belaassel Bouzagza",
+    "state_name": "Relizane",
+    "index": 1461
+  },
+  {
+    "wilaya_id": 49,
+    "daira_id": 3928,
+    "id": 1306,
+    "code": "1306",
+    "name_ar": "تندلة",
+    "name": "Tenedla",
+    "state_name": "El Meghaier",
+    "index": 1485
+  },
+  {
+    "wilaya_id": 50,
+    "daira_id": 4702,
+    "id": 1495,
+    "code": "1495",
+    "name_ar": "المنيعة",
+    "name": "El Meniaa",
+    "state_name": "El Menia",
+    "index": 1486
+  },
+  {
+    "wilaya_id": 56,
+    "daira_id": 3302,
+    "id": 1158,
+    "code": "1158",
+    "name_ar": "برج الحواس",
+    "name": "Bordj El Haouass",
+    "state_name": "Djanet",
+    "index": 1529
+  },
+  {
+    "wilaya_id": 57,
+    "daira_id": 1108,
+    "id": 358,
+    "code": "358",
+    "name_ar": "فقارة الزوى",
+    "name": "Foggaret Ezzoua",
+    "state_name": "In Salah",
+    "index": 1532
+  },
+  {
+    "wilaya_id": 57,
+    "daira_id": 1103,
+    "id": 360,
+    "code": "360",
+    "name_ar": "إينغر",
+    "name": "Inghar",
+    "state_name": "In Salah",
+    "index": 1533
+  },
+  {
+    "wilaya_id": 58,
+    "daira_id": 1104,
+    "id": 356,
+    "code": "356",
+    "name_ar": "عين قزام",
+    "name": "Ain Guezzam",
+    "state_name": "In Guezzam",
+    "index": 1534
+  },
+  {
+    "wilaya_id": 58,
+    "daira_id": 1107,
+    "id": 363,
+    "code": "363",
+    "name_ar": "تين زواتين",
+    "name": "Tin Zouatine",
+    "state_name": "In Guezzam",
+    "index": 1535
+  }
+]

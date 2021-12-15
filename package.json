@@ -1,0 +1,18 @@
+{
+  "name": "Algerian Cities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "fix": "node fixMissing.js",
+    "auto-fix": "node autofixer.js"
+  },
+  "author": "khezouroussama",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
